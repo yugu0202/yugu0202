@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=Ruby&style=flat" />
 </p>
 
-## Tools&Framework
+## Tools&Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/-PostgreSQL-F9DC3E.svg?logo=postgresql&style=flat" />
