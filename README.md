@@ -1,9 +1,17 @@
 # Hello I'm yugu0202!!
 
-## Environment
+## OS
 
-<p>OS: <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"/> </p>
-<p>Editor: <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" /> <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat" />
+<p>
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat" />
+</p>
+
+## Editor
+
+<p>
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" />
+  <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat" />
 </p>
 
 ## Languages
