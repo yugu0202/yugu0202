@@ -1,5 +1,30 @@
 # Hello I'm yugu0202!!
 
+## Environment
+
+<p>OS: <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat"/> </p>
+<p>Editor: <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" /> <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat" />
+</p>
+
+## Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat" />
+  <img src="https://img.shields.io/badge/-C Sharp-239120.svg?logo=C Sharp&style=flat" />
+  <img src="https://img.shields.io/badge/-C Lang-yellow.svg?logo=C&style=flat" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=Ruby&style=flat" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-F9DC3E.svg?logo=postgresql&style=flat" />
+  <img src="https://img.shields.io/badge/-node.js-brightgreen.svg?logo=node.js&style=flat" />
+  <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat" />
+  <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat" />
+  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat" />
+</p>
+
 ## Stats
 
 <p align="left">
