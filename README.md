@@ -12,7 +12,6 @@
 <p>
   <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat" />
   <img src="https://img.shields.io/badge/-Neovim-darkblue.svg?logo=neovim&style=flat" />
-  <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat" />
 </p>
 
 ## Languages
